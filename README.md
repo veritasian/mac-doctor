@@ -1,6 +1,6 @@
 # Mac Doctor
 
-**Three-phase macOS maintenance for Codex: scan caches and junk, check malware and privacy traces, optimize system speed.**
+**All-In-One Toolkit (Similar to CleanMyMac). Open source Mac cleaner working for codex and claude. Three-phase macOS maintenance: scan caches and junk, check malware and privacy traces, optimize system speed.**
 
 A free alternative to paid tools like CleanMyMac, MacBooster, and MacKeeper. Runs entirely inside Codex. No installation, no subscription, no telemetry.
 
