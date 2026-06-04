@@ -44,6 +44,7 @@ The skill defines three phases that run in sequence:
 1. **Scan** — examines 19 categories of cache files, log files, junk data, and system artifacts
 2. **Protect** — checks for malware indicators across eight inspection methods and scans privacy traces across browsers and chat applications
 3. **Speed** — executes 17 system optimization steps and measures the difference
+4. **FREE** — say goodby to the paid mac cleaner
 
 Every command Mac Doctor runs is visible in the conversation. Every delete operation waits for explicit user confirmation. No data leaves your machine.
 
