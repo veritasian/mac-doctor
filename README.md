@@ -8,6 +8,9 @@ A free alternative to paid tools like CleanMyMac, MacBooster, and MacKeeper. Run
 
 ## Table of Contents
 
+<details>
+<summary>Click to expand/collapse</summary>
+
 - [What Is Mac Doctor](#what-is-mac-doctor)
 - [Why This Exists](#why-this-exists)
 - [How It Works — High-Level Flow](#how-it-works--high-level-flow)
@@ -29,7 +32,8 @@ A free alternative to paid tools like CleanMyMac, MacBooster, and MacKeeper. Run
 - [File Structure](#file-structure)
 - [License](#license)
 
----
+</details>
+
 
 ## What Is Mac Doctor
 
@@ -45,6 +49,37 @@ Every command Mac Doctor runs is visible in the conversation. Every delete opera
 
 ---
 
+## Installation
+
+Anyone can install Mac Doctor from GitHub in one command:
+
+```bash
+git clone https://github.com/veritasian/mac-doctor.git ~/.agents/skills/mac-doctor
+```
+
+Or with GitHub CLI:
+
+```bash
+gh repo clone veritasian/mac-doctor ~/.agents/skills/mac-doctor
+```
+
+After cloning, Codex picks it up automatically. No config file changes, no restart, no build step.
+
+You can then invoke it by typing **@mac-doctor** or saying any of:
+
+- "Clean up my Mac"
+- "Scan for junk files"
+- "Check for malware"
+- "Speed up my Mac"
+
+The repo contains exactly two files:
+
+| File | Purpose |
+|---|---|
+| `SKILL.md` | The instructions Codex follows at runtime |
+| `README.md` | This documentation |
+
+Nothing to build. Nothing to install beyond the clone.
 ## Why This Exists
 
 macOS accumulates data over time. Cache files that applications never clean up. Log files that grow until you notice your startup disk is full. Browser history that keeps every page you visited. Time Machine snapshots that consume invisible gigabytes. Language packs for languages you do not speak. Xcode build artifacts that multiply with every project.
