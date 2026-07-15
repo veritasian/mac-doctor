@@ -1,4 +1,5 @@
 # Mac Doctor
+<img width="1753" height="2286" alt="Screenshot 2026-07-15 at 18-32-14" src="https://github.com/user-attachments/assets/ef2771e2-5a67-45b5-a323-5ee70fdf9796" />
 
 **面向 Codex 的三阶段 macOS 维护工具：扫描缓存和垃圾文件、检查恶意软件和隐私痕迹、优化系统速度。**
 
