@@ -1,4 +1,5 @@
 # Mac Doctor
+<img width="1753" height="2286" alt="Screenshot 2026-07-15 at 18-32-14" src="https://github.com/user-attachments/assets/ef2771e2-5a67-45b5-a323-5ee70fdf9796" />
 
 **All-In-One Toolkit (Similar to CleanMyMac). Open source Mac cleaner working for codex and claude. Three-phase macOS maintenance: scan caches and junk, check malware and privacy traces, optimize system speed.**
 
